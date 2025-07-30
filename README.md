@@ -10,9 +10,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 2. Move to the app
-   '''bash
+   ```bash
    cd MyApp
-   '''
+   ```
 
 3. Start the app
 
