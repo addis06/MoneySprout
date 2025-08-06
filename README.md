@@ -22,7 +22,7 @@ A modern React Native banking application built with Expo, featuring authenticat
 - **Progress tracking** for completed videos
 - **Start/Continue learning** functionality
 
-### 📊 Dashboard & Analytics
+### Dashboard & Analytics
 - **Home screen** with personalized greetings
 - **Recent activity** tracking
 - **Progress statistics**: Total saved, goals completed, videos watched
